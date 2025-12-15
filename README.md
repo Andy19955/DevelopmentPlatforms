@@ -1,4 +1,4 @@
-# DevelopmentPlatforms
+# development-platforms-ca
 
 This is an Express project for my course assignment for the Development Platforms course.
 
@@ -7,8 +7,8 @@ This is an Express project for my course assignment for the Development Platform
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Andy19955/DevelopmentPlatforms.git
-   cd DevelopmentPlatforms
+   git clone https://github.com/Andy19955/development-platforms-ca.git
+   cd development-platforms-ca
    ```
 
 2. **Install dependencies**
