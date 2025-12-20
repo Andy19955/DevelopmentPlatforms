@@ -20,7 +20,7 @@ This is an Express project for my course assignment for the Development Platform
 3. **Set up the database**
 
    - Create a MySQL database
-   - Import the database schema from the `database.sql` file.
+   - Import the database schema from the `DevelopmentPlatforms.sql` file.
 
 4. **Configure environment variables**
 
